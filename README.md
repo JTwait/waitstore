@@ -1,0 +1,2 @@
+# waitstore
+just a repository
